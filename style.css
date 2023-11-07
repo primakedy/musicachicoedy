@@ -1,6 +1,10 @@
+header{
+    background-color: white;
+}
 body{
-     background-color: rgb(252, 183, 204);
-
+    
+     background: linear-gradient (to bottom, peachpuff, pink);
+     
 }
 
 h1{
